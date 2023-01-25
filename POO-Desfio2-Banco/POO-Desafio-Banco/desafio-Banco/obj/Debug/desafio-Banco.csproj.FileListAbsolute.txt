@@ -1,0 +1,8 @@
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\obj\Debug\desafio-Banco.csproj.AssemblyReference.cache
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\obj\Debug\desafio-Banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\obj\Debug\desafio-Banco.csproj.CoreCompileInputs.cache
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\bin\Debug\desafio-Banco.exe.config
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\bin\Debug\desafio-Banco.exe
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\bin\Debug\desafio-Banco.pdb
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\obj\Debug\desafio-Banco.exe
+C:\Users\medin\Desktop\POO-Desafios\POO-Desfio2-Banco\POO-Desafio-Banco\desafio-Banco\obj\Debug\desafio-Banco.pdb

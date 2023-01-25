@@ -1,0 +1,8 @@
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\bin\Debug\Desafio1.exe.config
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\bin\Debug\Desafio1.exe
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\bin\Debug\Desafio1.pdb
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\obj\Debug\Desafio.csproj.AssemblyReference.cache
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\obj\Debug\Desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\obj\Debug\Desafio1.exe
+C:\Users\medin\Desktop\POO-Desafios\POO-Desafio-modulo2\Desafio1\obj\Debug\Desafio1.pdb
